@@ -26,7 +26,7 @@ However, you can give other users increased confidence in the identity attribute
 
 You should only enable vigilant mode if you sign all of your commits and tags and use an email address that is verified for your {% data variables.product.github %} account as your committer email address. After enabling this mode, any unsigned commits or tags that you generate locally and push to {% data variables.product.github %} will be marked "Unverified."
 
-{% data reusables.identity-and-permissions.verification-status-check %}
+{% data reusables.identity-and-permissions.verification-status-check %}https://github.com/AndroidIDE-CN/AIDE-Pro-Release.git
 
 ## Enabling vigilant mode
 
